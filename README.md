@@ -10,7 +10,7 @@
 
 ### How to build{cmake}
  - Clone this repo
- - generate a cmakelists by using ```xmake -k cmakelists```
+ - generate a cmakelists by using ```xmake project -k cmakelists```
  - Make a build directory ```mkdir build```(bash)
  - Enter the directory and type ```cmake .. && make```
 
