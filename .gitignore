@@ -3,7 +3,7 @@
 build/ 
 cmakebuild/
 CMakeLists.txt
-
+.#CMakeLists.txt
 # MacOS Cache
 .DS_Store
 
