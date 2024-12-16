@@ -1,4 +1,4 @@
-#### Rotating cube from scratch
+######  Rotating cube from scratch
 
 
 ### How to build
